@@ -3,27 +3,6 @@
 
 <img width="960" alt="18 (2)" src="https://github.com/user-attachments/assets/b8af8b0c-adcc-49f7-bc8e-d2bb131f36eb">
 
-## 📸 Some Screenshots
-
-![alarm_metric](https://github.com/user-attachments/assets/2d5bf915-1777-4d79-8520-3289615f13c9)
-
-<br/>
-
-<img width="1423" alt="alert_notification" src="https://github.com/user-attachments/assets/541db17f-a76b-4404-9c95-51997f79a7a9">
-
-<br/>
-
-![spike_metric](https://github.com/user-attachments/assets/6a33e1f4-9758-4d1b-96dd-fb5822c27ec0)
-
-<br/>
-
-<img width="931" alt="subscribe_notification" src="https://github.com/user-attachments/assets/3a3975ed-0574-4f7f-af05-f4b96791943a">
-
-<br/>
-
-<p align="center">
-<img width="559" alt="subscription_success" src="https://github.com/user-attachments/assets/33a2e01c-d5fe-48d4-9131-ae7f2a9c9c30">
-</p>
 
 ## 📚 Project Overview
 
@@ -143,7 +122,28 @@ Amazon Simple Notification Service (SNS) allows you to send messages to users vi
 
 ## 📊 Monitoring the Spike
 
-Run the Python script, and after about a minute, you’ll see the CPU utilization spike in CloudWatch metrics. When CPU utilization exceeds 50%, you’ll receive an email notification via AWS SNS. 
+Run the Python script, and after about a minute, you’ll see the CPU utilization spike in CloudWatch metrics. When CPU utilization exceeds 50%, you’ll receive an email notification via AWS SNS. Below Are Some Screenshots that are relevant to metrics and alerts
+
+![alarm_metric](https://github.com/user-attachments/assets/2d5bf915-1777-4d79-8520-3289615f13c9)
+
+<br/>
+
+<img width="1423" alt="alert_notification" src="https://github.com/user-attachments/assets/541db17f-a76b-4404-9c95-51997f79a7a9">
+
+<br/>
+
+![spike_metric](https://github.com/user-attachments/assets/6a33e1f4-9758-4d1b-96dd-fb5822c27ec0)
+
+<br/>
+
+<img width="931" alt="subscribe_notification" src="https://github.com/user-attachments/assets/3a3975ed-0574-4f7f-af05-f4b96791943a">
+
+<br/>
+
+<p align="center">
+<img width="559" alt="subscription_success" src="https://github.com/user-attachments/assets/33a2e01c-d5fe-48d4-9131-ae7f2a9c9c30">
+</p>
+
 
 ## 📝 Resources
 
